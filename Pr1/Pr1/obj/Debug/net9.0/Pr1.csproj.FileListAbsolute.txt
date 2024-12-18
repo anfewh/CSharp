@@ -1,0 +1,15 @@
+C:\CSharp\Pr1\Pr1\bin\Debug\net9.0\Pr1.exe
+C:\CSharp\Pr1\Pr1\bin\Debug\net9.0\Pr1.deps.json
+C:\CSharp\Pr1\Pr1\bin\Debug\net9.0\Pr1.runtimeconfig.json
+C:\CSharp\Pr1\Pr1\bin\Debug\net9.0\Pr1.dll
+C:\CSharp\Pr1\Pr1\bin\Debug\net9.0\Pr1.pdb
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.AssemblyInfoInputs.cache
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.AssemblyInfo.cs
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.csproj.CoreCompileInputs.cache
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.dll
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\refint\Pr1.dll
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.pdb
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.genruntimeconfig.cache
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\ref\Pr1.dll
+C:\CSharp\Pr1\Pr1\obj\Debug\net9.0\Pr1.sourcelink.json
